@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-arc",
+  "title": "Infinity Arc",
+  "emoji": "\ud83c\udf08",
+  "purpose": "Each color is a research arc. Red=deeper value, Orange=evolved choices, Yellow=data extraction, Blue=imports.",
+  "tools": [
+    "Arc Navigator",
+    "Color Router",
+    "Path Builder",
+    "Arc History"
+  ],
+  "color": "#673ab7",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
